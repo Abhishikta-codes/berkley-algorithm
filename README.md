@@ -1,9 +1,9 @@
 # fuzzy-broccoli
 To execute this code navigate to the directory which contains the code.
 Run the following commands:
-Make clean
-Make compile
-Make run_server
-Open new terminal with the same path as that in step 1
-Make run_client
-Repeat step 7 and 8 again to run multiple clients.
+1. Make clean
+2. Make compile
+3. Make run_server
+4. Open new terminal with the same path as that in step 1
+5. Make run_client
+6. Repeat step 7 and 8 again to run multiple clients
