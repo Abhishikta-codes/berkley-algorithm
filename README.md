@@ -1,4 +1,4 @@
-# fuzzy-broccoli
+Berkley Algorithm Implementation
 To execute this code navigate to the directory which contains the code.
 Run the following commands:
 1. Make clean
