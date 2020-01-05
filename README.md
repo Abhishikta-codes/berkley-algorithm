@@ -6,4 +6,4 @@ Run the following commands:
 3. Make run_server
 4. Open new terminal with the same path as that in step 1
 5. Make run_client
-6. Repeat step 7 and 8 again to run multiple clients
+6. Repeat step 4 and 5 again to run multiple clients
